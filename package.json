@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Simple node.js project to demostrate the basics of API development.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaybaswa/node-farm.git"
+  },
+  "author": "Vinay Baswa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaybaswa/node-farm/issues"
+  },
+  "homepage": "https://github.com/vinaybaswa/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
